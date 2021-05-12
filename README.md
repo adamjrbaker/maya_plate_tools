@@ -1,1 +1,1 @@
-# maya_plate_tools
+# Maya Plate Tools
